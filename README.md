@@ -74,3 +74,14 @@ The analysis shows that refill behavior captured by the medication possession ra
 Demographic variables such as age and gender had little influence. Refill interval patterns also played a role, with longer intervals associated with increased risk of dropping off therapy.
 
 Overall, the project demonstrates a complete adherence analytics workflow in SAS Studio, from data cleaning to predictive modeling and survival analysis. The findings highlight the importance of monitoring refill patterns to proactively identify patients at risk of non-adherence.
+<img width="784" height="531" alt="Screenshot 2025-11-18 at 07 04 42" src="https://github.com/user-attachments/assets/52cffdc0-1c70-4b34-8ad1-71e5a084be32" />
+<img width="728" height="504" alt="Screenshot 2025-11-18 at 07 06 18" src="https://github.com/user-attachments/assets/396cf753-b729-4a11-8184-0f7c42cbe530" />
+<img width="762" height="484" alt="Screenshot 2025-11-18 at 07 06 52" src="https://github.com/user-attachments/assets/8e159c97-cfe4-42aa-a71a-ac857ac6588f" />
+<img width="625" height="514" alt="Screenshot 2025-11-18 at 07 07 39" src="https://github.com/user-attachments/assets/c995f7ba-0231-49bd-bca7-f0730ff8e782" />
+<img width="651" height="508" alt="Screenshot 2025-11-18 at 07 09 46" src="https://github.com/user-attachments/assets/9e5c622b-cc3f-4152-9de0-8d549e08efa3" />
+<img width="652" height="493" alt="Screenshot 2025-11-18 at 07 10 33" src="https://github.com/user-attachments/assets/b6e1ab02-0c07-4cd0-8a93-fac40c6754d8" />
+
+
+
+
+
